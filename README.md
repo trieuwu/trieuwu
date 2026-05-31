@@ -3,8 +3,6 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=trieuwu&label=Profile%20views&color=ff83c6&style=flat" alt="trieuwu"/></p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trieuwu&theme=onedark&column=7" alt="trieuwu's GitHub Trophies"/></a></p>
-
 - 🧠 **Currently exploring:** Data Structures, Algorithms, and **Embedded IoT Systems**.
 - 🔬 **Diving into:** **EdgeAI** architectures and sharpening my **OOP** mindset.
 - 💻 **Tech Stack:** Working daily with C, C++, Java, and Web Technologies.

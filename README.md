@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ha Tien Trieu (88.prideful)</h1>
-<h3 align="center">I like to break stuff, explore new things, and work towards becoming a full-stack developer. Currently interested in EdgeAI.</h3>
+<h3 align="center">I like to break stuff, explore new things, and work towards becoming a full-stack developer.</h3>
+<h3 align="center">Currently interested in EdgeAI.</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=trieuwu&label=Profile%20views&color=ff83c6&style=flat" alt="trieuwu"/></p>
 

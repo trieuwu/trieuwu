@@ -3,6 +3,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=trieuwu&label=Profile%20views&color=ff83c6&style=flat" alt="trieuwu"/></p>
 
+
+
 - 🧠 **Currently exploring:** Data Structures, Algorithms, and **Embedded IoT Systems**.
 - 🔬 **Diving into:** **EdgeAI** architectures and sharpening my **OOP** mindset.
 - 💻 **Tech Stack:** Working daily with C, C++, Java, and Web Technologies.
@@ -13,10 +15,10 @@
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </p>
+<p align="left"></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trieuwu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trieuwu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=trieuwu&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
 </p>
 

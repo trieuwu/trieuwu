@@ -18,8 +18,8 @@
 <p align="left"></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trieuwu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=trieuwu&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trieuwu&layout=compact&theme=dark&hide_border=true" alt="" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trieuwu&show_icons=true&theme=dark&hide_border=true" alt="" width="48%" />
 </p>
 
 <p align="center">

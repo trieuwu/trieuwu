@@ -10,7 +10,7 @@
 - 🔬 **Diving into:** **EdgeAI** architectures and sharpening my **OOP** mindset.
 - 💻 **Tech Stack:** Working daily with C, C++, Java, and Web Technologies.
 - 🚀 **Open Source:** All of my projects and experiments are available below.
-- 📬 **Reach Me:** **itstrieuwu@gmail.com** / **tr13ud3ptr41@gmail.com**
+- 📬 **Reach Me:** **itstrieuwu@gmail.com** / **tr13ud3ptr41@gmail.com** / **88prideful8686@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
